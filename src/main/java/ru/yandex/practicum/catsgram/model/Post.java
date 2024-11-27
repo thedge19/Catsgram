@@ -9,6 +9,5 @@ public class Post {
     private Long id;
     private Long authorId;
     private String description;
-    private Instant registrationDate;
     private Instant postDate;
 }
